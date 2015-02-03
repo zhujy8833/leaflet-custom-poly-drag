@@ -1,0 +1,22 @@
+{
+  "name": "leaflet-custom-draw-drag",
+  "version": "1.0.0",
+  "description": "This is a npm module for customizing leaflet draw drag plugin ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "leaflet",
+    "leaflet-draw",
+    "leaflet-draw-drag"
+  ],
+  "author": "Jiangyue Zhu <zhujy8833@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "leaflet": "^0.7.3",
+    "leaflet-draw": "^0.2.3",
+    "leaflet-path-drag": "^0.1.2",
+    "leaflet-draw-drag": "0.0.3"
+  }
+}
