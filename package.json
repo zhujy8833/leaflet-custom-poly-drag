@@ -1,10 +1,14 @@
 {
   "name": "leaflet-custom-draw-drag",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "This is a npm module for customizing leaflet draw drag plugin ",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zhujy8833/leaflet-custom-poly-drag.git"
   },
   "keywords": [
     "leaflet",
