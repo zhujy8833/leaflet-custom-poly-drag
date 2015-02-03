@@ -17,7 +17,7 @@
   ],
   "author": "Jiangyue Zhu <zhujy8833@gmail.com>",
   "license": "ISC",
-  "devDependencies": {
+  "dependencies": {
     "leaflet": "^0.7.3",
     "leaflet-draw": "^0.2.3",
     "leaflet-path-drag": "^0.1.2",
